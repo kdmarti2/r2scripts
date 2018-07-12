@@ -5,6 +5,7 @@
 #profiles never seem to work and always seems to erase my variable renames, funcion renames,
 #and custom flags.  will dump and save current work to a json file.  Should work with PIE enable
 #executables.
+#test
 ####
 import r2pipe
 import sys
