@@ -114,7 +114,7 @@ def saveLocalVars(r):
 			"kind" : vbp["kind"],
 			"type" : vbp["type"]
 		}
-	print program["func"][funcName];
+	#print program["func"][funcName];
 	saveDump(program["path"]);
 	
 
